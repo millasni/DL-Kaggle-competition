@@ -10,6 +10,6 @@ In this project, I implemented:
 * BERT
 * Text mining (logistic regression, Naive Bayes and multi-layer perceptron based on TF-IDF and bag-of-word matrices)
 
-Soem models learnt word embeddings from scratch and some were using pre-trained GloVe and Word2Vec embeddings that were allowed to train further.
+Some models learnt word embeddings from scratch and some were using pre-trained GloVe and Word2Vec embeddings that were allowed to train further. The latter, however, did not bring a measurable gain in accuracy.
 
-More code is coming.
+Using atricle titles with reference network allowed getting superior results compared with using only article titles themselves.
